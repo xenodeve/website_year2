@@ -34,7 +34,7 @@ roles:
   "Junior Developer": "#567749"
   "Website Developer": "#006f72"
   "Bot Developer": "#ff5722"
-  "FullStack Developer": "#ffc107"
+  # "FullStack Developer": "#ffc107"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
