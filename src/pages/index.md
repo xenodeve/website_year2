@@ -106,6 +106,6 @@ Facebook : [Tun Theerut](https://www.facebook.com/dgg.alpha/)
 
 Github : [xenodeve](https://github.com/xenodeve)
 
-Website : [xeno](https://sites.google.com/email.kmutnb.ac.th/xeno)
+Website : [Portfolio](https://sites.google.com/email.kmutnb.ac.th/xeno)
 
 **แล้วเจอกันนะค้าบ😎**
