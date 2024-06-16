@@ -96,9 +96,9 @@ A : ใช่ครับทำเอง แต่งานรีบไปหน
 
 **ช่องทางติดต่อ**
 
-Discord : [xeno.2004](https://discordapp.com/users/487940627086966796)
+Discord : [xeno.2004](https://sites.google.com/view/xeno-discord)
 
-IG : [alpha.tun](https://www.instagram.com/alpha.tun/)
+IG : [alpha.tun](https://sites.google.com/view/xeno-ig)
 
 LINE : [Tun Theerut](https://sites.google.com/view/xeno-lineqrcode)
 
