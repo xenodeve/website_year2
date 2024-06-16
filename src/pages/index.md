@@ -41,7 +41,7 @@ roles:
 connections:
   facebook:
     username: "Tun Theerut"
-    url: "https://www.facebook.com/dgg.alpha/"
+    url: "https://sites.google.com/view/xeno-facebook"
     verified: true
   github:
     username: "xenodeve"
@@ -49,7 +49,7 @@ connections:
     verified: true
   instagram:
     username: "alpha.tun"
-    url: "https://www.instagram.com/alpha.tun/"
+    url: "https://sites.google.com/view/xeno-ig"
     verified: true
   riot-games:
     username: "MM Hayete"
@@ -102,7 +102,7 @@ IG : [alpha.tun](https://sites.google.com/view/xeno-ig)
 
 LINE : [Tun Theerut](https://sites.google.com/view/xeno-lineqrcode)
 
-Facebook : [Tun Theerut](https://www.facebook.com/dgg.alpha/)
+Facebook : [Tun Theerut](https://sites.google.com/view/xeno-facebook)
 
 Github : [xenodeve](https://github.com/xenodeve)
 
